@@ -63,3 +63,4 @@ rm /tmp/.cronbkp
 
 clear
 clear
+clear
