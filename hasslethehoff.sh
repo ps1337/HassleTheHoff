@@ -62,5 +62,3 @@ crontab /tmp/.cronbkp
 rm /tmp/.cronbkp
 
 clear
-clear
-clear
